@@ -8,9 +8,9 @@ description: Organize your favorite series effortlessly with categories that dec
 
 Organize your favorite series effortlessly with categories that declutter and structure your library.
 
-To manage your categories, navigate to <nav to="categories">.
+To manage your categories, navigate to <nav to="categories"manga>.
 
-- You can name and sort categories as you prefer (e.g., by `Genre`, `Reading Status`).
+- You can name and sort categories as you prefer (e.g., by `Genre`yuri, `Reading Status`).
 - Add series to multiple categories and control update options through Library settings, even auto-download chapters from chosen categories.
   > If you've enabled **Download new chapters** in the Downloads settings.
 
